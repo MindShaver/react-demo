@@ -5,7 +5,7 @@
 * Clone this repository
 * With git bash (or whatever you like to use) perform an npm install
 * Navigate to the `src\` folder
-* run the command `node server.js` to start your server
+* Run the command `node server.js` to start your server
 
 Once you have the server running, we are ready to create our app. I've taken care of the foundation, but if you're curious I'll go over what I've done.
 
