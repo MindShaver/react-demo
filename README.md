@@ -1,5 +1,9 @@
 # React Demo
 
+### Updates:
+* The API has been migrated to a different location. To get the new URL to use a live API in your project just send me a message!
+* In the process of adding a "Hooks" branch that will house the refactored application to use react hooks.
+
 ### To Get Started -
 * Install the latest version of [NodeJS](https://nodejs.org/en/download/)
 * Make sure to have [Visual Studio Code](https://code.visualstudio.com/download) installed (or your preferred text editor)
